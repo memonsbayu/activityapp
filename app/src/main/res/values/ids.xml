@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_Width" type="id"></item>
+    <item name="edt_Height" type="id" />
+    <item name="edt_Lenght" type="id" />
+    <item name="btn_calculate" type="id" />
+    <item name="tv_result" type="id" />
+</resources>

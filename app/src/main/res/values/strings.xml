@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="length">length</string>
+    <string name="width">length</string>
+    <string name="height">length</string>
+    <string name="calculate">length</string>
+    <string name="result">result</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+</resources>
